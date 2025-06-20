@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,11 +46,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0169-majority-element) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
