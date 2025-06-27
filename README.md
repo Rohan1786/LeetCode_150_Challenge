@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0169-majority-element) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Math
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0135-candy) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Counting Sort
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0392-is-subsequence) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Stack
 |  |
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Backtracking
+|  |
+| ------- |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->
