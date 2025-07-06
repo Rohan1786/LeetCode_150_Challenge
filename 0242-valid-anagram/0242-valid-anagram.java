@@ -16,21 +16,36 @@ class Solution {
         //     }
         // }
         // return cnt==ns-1?true:false;
-       int ns = s.length();
-       int nt=t.length();
-       if(ns!=nt){
-        return false;
-       }
-        char[] chs = s.toCharArray();
-        char[] cht = t.toCharArray();
-        int cnt=0;
-        Arrays.sort(chs);
-        Arrays.sort(cht);
-        for(int i = 0;i<chs.length;i++){
-            if(chs[i]==cht[i]){
-                cnt++;
-            }
-        }
-        return cnt==ns?true:false;
+    //    int ns = s.length();
+    //    int nt=t.length();
+    //    if(ns!=nt){
+    //     return false;
+    //    }
+    //     char[] chs = s.toCharArray();
+    //     char[] cht = t.toCharArray();
+    //     int cnt=0;
+    //     Arrays.sort(chs);
+    //     Arrays.sort(cht);
+    //     for(int i = 0;i<chs.length;i++){
+    //         if(chs[i]==cht[i]){
+    //             cnt++;
+    //         }
+    //     }
+    //     return cnt==ns?true:false;
+    HashMap<Character,Integer>map = new HashMap<>();
+    int n = s.length();
+   int tn = t.length();
+   if(n!=tn) return false; 
+
+    for(char ch: s.toCharArray()){
+       map.put(ch, map.getOrDefault(ch, 0) + 1);;
     }
+    int cnt =0;
+    for(char ch:t.toCharArray()){
+        if(!map.containsKey(ch)) return false;
+        map.put(ch,map.get(ch)-1);
+        if(map.get(ch)==0) map.remove(ch);
+    }
+    return map.isEmpty();
+        }
 }
