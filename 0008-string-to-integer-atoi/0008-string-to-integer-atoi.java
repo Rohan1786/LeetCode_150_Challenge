@@ -8,7 +8,7 @@ class Solution {
         int i = 0;
         if (s.charAt(0) == '-') {
             sign = -1;
-            i++;
+            i=1;
         } else if (s.charAt(0) == '+') {
             i=1;
         }
