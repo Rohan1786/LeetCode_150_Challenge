@@ -249,4 +249,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
