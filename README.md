@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0202-happy-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [1013-fibonacci-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1013-fibonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Backtracking
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Linked List
