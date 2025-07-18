@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0134-gas-station) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0242-valid-anagram) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0257-binary-tree-paths) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0257-binary-tree-paths) |
