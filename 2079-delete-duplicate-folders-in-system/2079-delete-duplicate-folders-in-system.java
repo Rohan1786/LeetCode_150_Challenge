@@ -18,18 +18,17 @@ class Solution {
             }
         }
 
-        Map<String, Integer> freq = new HashMap<>(); // hash table records the occurrence times of each serialized representation
-        // post-order traversal based on depth-first search, calculate the serialized representation of each node structure
+        Map<String, Integer> freq = new HashMap<>(); 
         construct(root, freq);
         List<List<String>> ans = new ArrayList<>();
         List<String> path = new ArrayList<>();
-        // operate the trie, delete duplicate folders
+     
         operate(root, freq, path, ans);
         return ans;
     }
 
     private void construct(Trie node, Map<String, Integer> freq) {
-        if (node.children.isEmpty()) return; // if it is a leaf node, no operation is needed.
+        if (node.children.isEmpty()) return;
 
         List<String> v = new ArrayList<>();
         for (Map.Entry<String, Trie> entry : node.children.entrySet()) {
@@ -52,8 +51,7 @@ class Solution {
         List<String> path,
         List<List<String>> ans
     ) {
-        if (freq.getOrDefault(node.serial, 0) > 1) return; // if the serialization representation appears more than once, it needs to be deleted
-
+        if (freq.getOrDefault(node.serial, 0) > 1) return; 
         if (!path.isEmpty()) {
             ans.add(new ArrayList<>(path));
         }
