@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0206-reverse-linked-list) |
