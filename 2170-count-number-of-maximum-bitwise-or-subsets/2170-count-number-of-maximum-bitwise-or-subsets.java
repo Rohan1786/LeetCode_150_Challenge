@@ -16,6 +16,7 @@ class Solution {
             maxOr|=num;
         }
         int currOr = 0;
+        
         return subArray(0,currOr,nums,maxOr);
     }
 }
