@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0392-is-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1013-fibonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
