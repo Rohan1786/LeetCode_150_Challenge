@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [0503-next-greater-element-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -258,11 +259,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0503-next-greater-element-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
