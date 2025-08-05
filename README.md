@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Randomized
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0503-next-greater-element-ii) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1818-maximum-score-from-removing-substrings) |
