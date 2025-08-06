@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3791-fruits-into-baskets-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -414,8 +416,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3791-fruits-into-baskets-iii) |
 <!---LeetCode Topics End-->
