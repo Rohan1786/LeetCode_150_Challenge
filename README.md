@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
+| [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2479-meeting-rooms-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
+| [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
