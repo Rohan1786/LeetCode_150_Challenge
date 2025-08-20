@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1013-fibonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Probability and Statistics
 |  |
