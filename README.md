@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0238-product-of-array-except-self) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0867-new-21-game) |
