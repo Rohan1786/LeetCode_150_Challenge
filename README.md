@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0238-product-of-array-except-self) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0900-reordered-power-of-2) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -631,4 +634,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0948-sort-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
