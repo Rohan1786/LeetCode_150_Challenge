@@ -6,12 +6,8 @@ class Solution {
         int size =0;
         for(char c: s.toCharArray()){
             if(set.contains(c)) {cnt++;}
-            else{ size++;}
+            
         }
-        if(size==s.length()) return false;
-        if(cnt % 2==0){
-            cnt-=1;
-        }
-        return cnt % 2==1;
+       return cnt>=1;
     }
 }
