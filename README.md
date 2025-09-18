@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0088-merge-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0141-linked-list-cycle) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
