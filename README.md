@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0055-jump-game) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0046-permutations) |
 | [0113-path-sum-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0679-24-game) |
