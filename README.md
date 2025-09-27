@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0940-fruit-into-baskets) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1013-fibonacci-number) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Merge Sort
