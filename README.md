@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0679-24-game) |
