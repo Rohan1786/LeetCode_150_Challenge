@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0496-next-greater-element-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0503-next-greater-element-ii) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
+| [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0744-network-delay-time) |
 | [0948-sort-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0948-sort-an-array) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0226-invert-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
