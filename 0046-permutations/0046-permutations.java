@@ -23,8 +23,34 @@ class Solution {
         nums[idx]=temp;
     }
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> arr = new ArrayList<>();
-        helper(nums, 0, arr);
-        return arr;
+        // List<List<Integer>> arr = new ArrayList<>();
+        // helper(nums, 0, arr);
+        // return arr;
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer>arr = new ArrayList<>();
+        boolean[] isValid= new boolean[nums.length];
+        helper1(nums, isValid, arr, ans);
+        return ans;
+    }
+    public void helper1(int[] nums, boolean[]isValid,List<Integer>arr, List<List<Integer>>ans) {
+        int n = nums.length;
+        if(arr.size()==n){
+         List<Integer>l = new ArrayList<>();
+         for(int i=0; i<n; i++){
+            l.add(arr.get(i));
+         }
+         ans.add(l);
+         return;
+        }
+        for(int i=0; i<n; i++) {
+            if(isValid[i]==false) {
+                arr.add(nums[i]);
+                isValid[i]=true;
+                helper1(nums, isValid, arr, ans);
+                isValid[i]=false;
+                arr.remove(arr.get(arr.size()-1));
+            }
+        }
+    
     }
 }
