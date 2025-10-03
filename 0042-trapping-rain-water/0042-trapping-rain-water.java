@@ -4,7 +4,7 @@ class Solution {
         int right =height.length-1;
         int leftMax=0, rightMax=0;
         int ans=0;
-        while(left<=right) {
+        while(left<right) {
             if(height[left]<=height[right]){
                 if(height[left]>leftMax){
                     leftMax=height[left]; 
