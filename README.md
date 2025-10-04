@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2529-range-product-queries-of-powers) |
+| [2662-check-knight-tour-configuration](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2662-check-knight-tour-configuration) |
 | [2689-rearranging-fruits](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2479-meeting-rooms-iii) |
+| [2662-check-knight-tour-configuration](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2662-check-knight-tour-configuration) |
 | [3336-water-bottles-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3790-fruits-into-baskets-ii) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2121-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2662-check-knight-tour-configuration](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0744-network-delay-time) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2121-find-if-path-exists-in-graph) |
+| [2662-check-knight-tour-configuration](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2793-count-the-number-of-complete-components) |
 ## Hash Function
 |  |
@@ -671,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1628-count-submatrices-with-all-ones) |
+| [2662-check-knight-tour-configuration](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2662-check-knight-tour-configuration) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
