@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [0948-sort-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0948-sort-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1917-maximum-average-pass-ratio) |
@@ -597,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2121-find-if-path-exists-in-graph) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -636,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2121-find-if-path-exists-in-graph) |
 | [2662-check-knight-tour-configuration](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2662-check-knight-tour-configuration) |
@@ -675,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -695,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
