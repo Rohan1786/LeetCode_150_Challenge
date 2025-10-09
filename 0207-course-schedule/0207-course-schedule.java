@@ -1,51 +1,37 @@
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        HashMap<Integer, List<Integer>> courseGraph = new HashMap<>();
-
-        // Build graph without returning false early
-        for (int[] pre : prerequisites) {
-            int course = pre[0];
-            int prereq = pre[1];
-            courseGraph.putIfAbsent(prereq, new ArrayList<>());
-            courseGraph.get(prereq).add(course);
+        HashMap<Integer, List<Integer>> graph = new LinkedHashMap<>();
+        HashSet<Integer> visited = new HashSet<>();
+        for(int[] pre : prerequisites)  {
+            int first = pre[0];
+            int second = pre[1];
+            graph.putIfAbsent(second, new ArrayList<>());
+            graph.get(second).add(first); 
         }
-
-        HashSet<Integer> visited = new HashSet<>(); // fully processed
-        HashSet<Integer> path = new HashSet<>();    // current recursion path
-
-        for (int current = 0; current < numCourses; current++) {
-            if (!courseSchedule(current, visited, path, courseGraph)) {
+        HashSet<Integer>path = new HashSet<>();
+        for(int current = 0; current<numCourses; current++) {
+              if(!dfs(graph, current, visited, path)){
                 return false;
-            }
+              }
         }
         return true;
     }
-
-    public boolean courseSchedule(int currentCourse,
-                                   Set<Integer> visited,
-                                   Set<Integer> path,
-                                   HashMap<Integer, List<Integer>> graph) {
-
-        if (path.contains(currentCourse)) {
-            return false; // cycle found
+    public boolean dfs(HashMap<Integer,List<Integer>>graph, int current,HashSet<Integer> visited, HashSet<Integer> path){
+        if(path.contains(current)) {
+            return false;
         }
-        if (visited.contains(currentCourse)) {
-            return true; // already checked & safe
-        }
-
-        path.add(currentCourse);
-
-        if (graph.containsKey(currentCourse)) {
-            for (int pre : graph.get(currentCourse)) {
-                if (!courseSchedule(pre, visited, path, graph)) {
-                    return false;
-                }
-            }
-        }
-
-        path.remove(currentCourse);
-        visited.add(currentCourse);
-
-        return true;
+         if(visited.contains(current)) {
+            return true;
+         }
+         path.add(current);
+         if(graph.containsKey(current)){
+          for(int node: graph.get(current)) {
+            if(!dfs(graph, node, visited,path)){
+                return false;
+            }}
+         }
+         path.remove(current);
+         visited.add(current);
+         return true;
     }
 }
