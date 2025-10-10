@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [0403-frog-jump](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0826-soup-servings](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0826-soup-servings) |
