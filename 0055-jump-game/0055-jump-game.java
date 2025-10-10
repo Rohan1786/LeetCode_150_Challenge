@@ -1,16 +1,16 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        
-       int gas=0;
-       for(int num:nums){
-        if(gas<0){
-            return false;
+        int n = nums.length;
+        int[] res = new int[n];
+        res[0]=nums[0];
+        for(int i=1; i<n; i++){
+if(i>res[i-1]){
+   return false;
+}
+else{
+ res[i] = Math.max(res[i - 1], i + nums[i]);
+}
         }
-        else if(num>gas){
-            gas=num;
-        }
-        gas-=1;
-       }
-       return true;
+    return res[n-1]>=n-1;
     }
 }
