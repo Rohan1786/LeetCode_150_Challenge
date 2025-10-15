@@ -1,22 +1,13 @@
 class Solution {
+    int[] memo;
     public int climbStairs(int n) {
-        // int[] dp=new int[n+1];
-        // dp[0]=1;
-        // dp[1]=2;
-        // for(int i=2; i<=n; i++){
-        //     dp[i]=dp[i-1]+dp[i-2];
-        // }
-        // return dp[n-1];
-
-        //now we are going to optimize the space too
-        int prev1 =1;
-        int prev2 =1;
-        // int res =0;
-        for(int i=2; i<=n; i++){
-            int res =prev1 + prev2;
-            prev2 = prev1;
-            prev1 =res;
-        }
-        return prev1;
+        memo = new int[n+1];
+       Arrays.fill(memo, -1);
+       return climb(n);
+    }
+    public int climb(int n){
+ if(n==0||n==1) return 1;
+        if(memo[n]!=-1) return memo[n];
+      return memo[n]=climb(n-1)+climb(n-2);
     }
 }
