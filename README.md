@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0088-merge-sorted-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0151-reverse-words-in-a-string) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0257-binary-tree-paths) |
 | [0679-24-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0679-24-game) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -721,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
 | [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0498-diagonal-traverse) |
