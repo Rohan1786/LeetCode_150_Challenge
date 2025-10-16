@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2529-range-product-queries-of-powers) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2659-number-of-even-and-odd-bits) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
