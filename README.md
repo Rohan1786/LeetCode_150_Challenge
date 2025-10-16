@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1917-maximum-average-pass-ratio) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2023-design-movie-rental-system) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -753,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0744-network-delay-time) |
+| [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2793-count-the-number-of-complete-components) |
 ## Shortest Path
