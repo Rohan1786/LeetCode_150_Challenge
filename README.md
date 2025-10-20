@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0290-word-pattern) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2023-design-movie-rental-system) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0290-word-pattern) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Simulation
