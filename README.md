@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0257-binary-tree-paths) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0498-diagonal-traverse) |
@@ -800,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1753-path-with-minimum-effort) |
