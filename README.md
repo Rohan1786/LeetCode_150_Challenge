@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0204-count-primes) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0101-symmetric-tree) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0101-symmetric-tree) |
@@ -851,5 +855,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
