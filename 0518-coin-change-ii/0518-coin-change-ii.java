@@ -14,12 +14,20 @@ class Solution {
         return t[i][amount] = take + skip;
     }
     public int change(int amount, int[] coins) {
-        n = coins.length;
-        t=new int[n+1][amount+1];
-        for(int[]arr: t)
-        {
-            Arrays.fill(arr,-1);
+        // n = coins.length;
+        // t=new int[n+1][amount+1];
+        // for(int[]arr: t)
+        // {
+        //     Arrays.fill(arr,-1);
+        // }
+        // return solve(0, amount, coins);
+        int[] dp = new int[amount+1];
+        dp[0]=1;
+      for(int coin: coins) {
+        for(int j=coin; j<=amount; j++){
+            dp[j] +=dp[j-coin];
         }
-        return solve(0, amount, coins);
+      }
+      return dp[amount];
     }
 }
