@@ -823,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1916-find-center-of-star-graph) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2793-count-the-number-of-complete-components) |
