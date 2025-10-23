@@ -22,6 +22,30 @@ class Solution {
         graph.get(arr[1]).add(arr[0]);
     }
     boolean [] visited=new boolean[n];
-    return dfs(source, destination, graph, visited);
+    
+    // return dfs(source, destination, graph, visited);
+    //above calculations is for dfs and now we will go with bfs too
+    return bfs(source, destination, graph, visited);
+
+    }
+
+    public boolean bfs(int s, int d, Map<Integer, List<Integer>> graph, boolean[]visited) {
+   Queue<Integer> q = new LinkedList<>();
+   if(s==d)return true;
+   q.add(s);
+   visited[s]=true;
+   while(!q.isEmpty()) {
+    int curr = q.poll();
+    if(curr==d){
+        return true;
+    }
+    for(int node: graph.get(curr)) {
+        if(!visited[node]){
+            visited[node]=true;
+            q.add(node); 
+        }
+    }
+   }
+   return false;
     }
 }
