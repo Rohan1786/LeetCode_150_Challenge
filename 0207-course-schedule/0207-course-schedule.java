@@ -1,37 +1,52 @@
 class Solution {
-    public boolean canFinish(int numCourses, int[][] prerequisites) {
-        HashMap<Integer, List<Integer>> graph = new LinkedHashMap<>();
-        HashSet<Integer> visited = new HashSet<>();
-        for(int[] pre : prerequisites)  {
-            int first = pre[0];
-            int second = pre[1];
-            graph.putIfAbsent(second, new ArrayList<>());
-            graph.get(second).add(first); 
-        }
-        HashSet<Integer>path = new HashSet<>();
-        for(int current = 0; current<numCourses; current++) {
-              if(!dfs(graph, current, visited, path)){
-                return false;
-              }
+    public boolean bfs(Map<Integer, List<Integer>> graph, int start) {
+        Queue<Integer> q = new LinkedList<>();
+        Set<Integer> visited = new HashSet<>();
+        q.add(start);
+        visited.add(start);
+        while(!q.isEmpty()) {
+            int curr = q.poll();
+            for(int node: graph.get(curr)) {
+                if(!visited.contains(node)) {
+                    visited.add(node);
+                    q.add(node);
+                }
+                else{
+                    return false;
+                }
+            }
         }
         return true;
     }
-    public boolean dfs(HashMap<Integer,List<Integer>>graph, int current,HashSet<Integer> visited, HashSet<Integer> path){
-        if(path.contains(current)) {
-            return false;
+    public boolean canFinish(int numCourses, int[][] prerequisites) {
+        Map<Integer, List<Integer>> graph = new LinkedHashMap<>();
+        for(int i=0; i<numCourses; i++){
+            graph.putIfAbsent(i, new ArrayList<>());
         }
-         if(visited.contains(current)) {
-            return true;
+         Queue<Integer> q= new LinkedList<>();
+         int[] indegree = new int[numCourses];
+         for(int[]arr: prerequisites) {
+            int a = arr[0];
+            int b = arr[1];
+            graph.get(b).add(a);
+            indegree[a]++;
          }
-         path.add(current);
-         if(graph.containsKey(current)){
-          for(int node: graph.get(current)) {
-            if(!dfs(graph, node, visited,path)){
-                return false;
-            }}
+         for(int i=0; i<numCourses; i++){
+            if(indegree[i]==0){
+                q.add(i);
+            }
          }
-         path.remove(current);
-         visited.add(current);
-         return true;
+         int visited=0;
+         while(!q.isEmpty()) {
+       int curr = q.poll();
+       visited++;
+       for(int node: graph.get(curr)) {
+        indegree[node]--;
+        if(indegree[node]==0){
+            q.add(node);
+        }
+       }
+         }
+         return visited==numCourses;
     }
 }
