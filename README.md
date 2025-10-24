@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2023-design-movie-rental-system) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2079-delete-duplicate-folders-in-system) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2479-meeting-rooms-iii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1642-water-bottles) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0679-24-game) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
