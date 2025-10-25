@@ -698,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0257-binary-tree-paths) |
+| [0310-minimum-height-trees](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0543-diameter-of-binary-tree) |
@@ -746,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0226-invert-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0310-minimum-height-trees) |
 | [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0310-minimum-height-trees) |
 | [0744-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1039-find-the-town-judge) |
@@ -845,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0210-course-schedule-ii) |
+| [0310-minimum-height-trees](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0310-minimum-height-trees) |
 ## Queue
 |  |
 | ------- |
