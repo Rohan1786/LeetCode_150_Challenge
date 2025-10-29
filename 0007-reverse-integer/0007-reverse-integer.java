@@ -1,16 +1,28 @@
 class Solution {
     public int reverse(int x) {
-        int rev = 0;
-        while (x != 0) {
-            int pop = x % 10;
-            x /= 10;
-            
-            // Check for overflow before multiplying by 10
-            if (rev > Integer.MAX_VALUE / 10 || (rev == Integer.MAX_VALUE / 10 && pop > 7)) return 0;
-            if (rev < Integer.MIN_VALUE / 10 || (rev == Integer.MIN_VALUE / 10 && pop < -8)) return 0;
-            
-            rev = rev * 10 + pop;
+        String value = String.valueOf(x);
+        boolean isNegative = value.charAt(0) == '-';
+        Stack<Character> stack = new Stack<>();
+
+        for (int i = isNegative ? 1 : 0; i < value.length(); i++) {
+            stack.push(value.charAt(i));
         }
-        return rev;
+
+        while (!stack.isEmpty() && stack.peek() == '0') {
+            stack.pop();
+        }
+
+        StringBuilder res = new StringBuilder();
+        while (!stack.isEmpty()) {
+            res.append(stack.pop());
+        }
+
+        if (res.length() == 0) return 0;
+
+        long num = Long.parseLong(res.toString());
+        if (isNegative) num = -num;
+
+        if (num > Integer.MAX_VALUE || num < Integer.MIN_VALUE) return 0;
+        return (int) num;
     }
 }
