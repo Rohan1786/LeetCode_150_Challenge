@@ -1,21 +1,15 @@
 class Solution {
     public int firstUniqChar(String s) {
-        HashSet<Character> set= new HashSet<>();
-        HashSet<Character> seen= new HashSet<>();
+        Map<Character,Integer> map = new HashMap<>();
         for(char ch: s.toCharArray()){
-          if(!set.contains(ch)){
-            set.add(ch);
-          }
-          else{
-            seen.add(ch);
-            set.remove(ch);
-          }
+            map.put(ch, map.getOrDefault(ch, 0)+1);
         }
-        int n= s.length();
-        for(int i=0;i<n; i++){
-        if(set.contains(s.charAt(i))&& !seen.contains(s.charAt(i))){
-            return i;
-        }
+      
+        for(int i=0; i<s.length(); i++) {
+            char ch = s.charAt(i);
+            if(map.get(ch)==1){
+                return i;
+            }
         }
         return -1;
     }
