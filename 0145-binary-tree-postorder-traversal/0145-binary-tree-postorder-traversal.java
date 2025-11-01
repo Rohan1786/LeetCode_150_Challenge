@@ -23,9 +23,8 @@ class Solution {
 
         while (!stack.isEmpty()) {
             TreeNode node = stack.pop();
-            // visit root first
-
-            // push left before right so right is processed first
+             
+ 
             if (node.left != null) {
                 stack.push(node.left);
             }
@@ -34,8 +33,7 @@ class Solution {
             }
              result.add(node.val);
         }
-
-        // reverse the result to get Left → Right → Root
+ 
         Collections.reverse(result);
         return result;
     }
