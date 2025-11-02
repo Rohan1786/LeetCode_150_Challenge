@@ -1,23 +1,36 @@
 class Solution {
-    int[] memo;
-    public int climbStairs(int n) {
-    //     memo = new int[n+1];
-    //    Arrays.fill(memo, -1);
-       //now its time to make bottom up approach
-       if(n==0||n==1) return 1;
-       int[] bottom = new int[n+1];
-       bottom[0]=1;
-       bottom[1]=1;
-       for(int i=2; i<=n; i++){
-        //0 1 2 
-        bottom[i]=bottom[i-1]+bottom[i-2];
-       }
-       //return memo[n];
-       return bottom[n];
+     //Recursive technique
+    public int solve(int n, int i){
+        if(i==n) return 1;
+        if(i>n){
+            return 0;
+        }
+       
+        int step=solve(n, i+1);
+        int skip=solve(n, i+2);
+        return step+skip;
     }
-//     public int climb(int n){
-//  if(n==0||n==1) return 1;
-//         if(memo[n]!=-1) return memo[n];
-//       return memo[n]=climb(n-1)+climb(n-2);
-//     }
+    
+int[] memo;
+
+    public int memoTech(int n, int i) {
+        if (i == n) return 1;  // reached the top
+        if (i > n) return 0;   // exceeded stairs
+
+        if (memo[i] != -1) {
+            return memo[i];
+        }
+
+        int step = memoTech(n, i + 1);
+        int more = memoTech(n, i + 2);
+
+        // store result for this position
+        return memo[i] = step + more;
+    }
+
+    public int climbStairs(int n) {
+        memo = new int[n + 1];
+        Arrays.fill(memo, -1);
+        return memoTech(n, 0);
+    }
 }
