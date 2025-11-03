@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0948-sort-an-array) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
+| [0907-koko-eating-bananas](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1046-max-consecutive-ones-iii) |
 | [1612-avoid-flood-in-the-city](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
