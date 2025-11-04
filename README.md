@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1041-available-captures-for-rook) |
@@ -857,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0200-number-of-islands) |
