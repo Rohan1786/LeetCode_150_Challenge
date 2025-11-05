@@ -1,38 +1,23 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        //26 chars 
-        
-        //  HashMap<String,List<String>> map = new LinkedHashMap<>();
-        
-        // for(String name: strs) {
-        //     StringBuilder res = new StringBuilder();
-        //      int[] field = new int[26];
-        //      for(char ch: name.toCharArray()) {
-        //         field[ch-'a']++;
-        //      }
-        //      for(int num: field) {
-        //         res.append(num).append("#");
-        //      }
-        //       String key = res.toString();
-        //     if(!map.containsKey(key)) {
-        //         map.put(key, new ArrayList<>());
-        //     }
-        //     map.get(key).add(name);
-        // }
-        //   List<List<String>> result = new ArrayList<>(map.values());
-        // return result;
-
-        HashMap<String, List<String>> map = new HashMap<>();
-        for(String name: strs) {
-            char[] chArr = name.toCharArray();
-            Arrays.sort(chArr);
-            String res = new String(chArr);
-            if(!map.containsKey(res)) {
-                map.put(res, new ArrayList<>());
-            }
-            map.get(res).add(name);
+        Map<String, List<String>> map = new LinkedHashMap<>();
+        for(String  str: strs){
+        int[] field = new int[26];
+        for(char ch: str.toCharArray()){
+            field[ch-'a']++;
         }
-        List<List<String>> result = new ArrayList<>(map.values());
-        return result;
+        String name = Arrays.toString(field);
+if(map.containsKey(name)) {
+    map.get(name).add(str);
+}
+else
+{
+    map.put(name, new ArrayList<>());
+    map.get(name).add(str);
+}
+}
+
+return new ArrayList<>(map.values());
+
     }
 }
