@@ -1,32 +1,37 @@
 class Solution {
-    public boolean isValidSudoku(char[][] board) {
-     
-        // Boolean arrays to track digits in rows, columns, and boxes
-        boolean[][] row = new boolean[9][9];
-        boolean[][] col = new boolean[9][9];
-        boolean[][] box = new boolean[9][9];
-
-        for (int i = 0; i < 9; i++) {
-            for (int j = 0; j < 9; j++) {
-                char c = board[i][j];
-                if (c == '.') continue; // empty cell
-
-                int digit = c - '1'; // convert '1'-'9' to 0-8
-
-                int boxIndex = (i / 3) * 3 + (j / 3); // 3x3 box numbering 0..8
-
-                if (row[i][digit] || col[j][digit] || box[boxIndex][digit]) {
-                    return false; // duplicate found
+    public boolean isValidSudoku(char[][] board){
+        int N=9;
+         HashSet<Character>[] row = new HashSet[N];
+        HashSet<Character>[] col = new HashSet[N];
+        HashSet<Character>[] box = new HashSet[N];
+        
+            for (int r = 0; r < N; r++) {
+            row[r] = new HashSet<Character>();
+            col[r] = new HashSet<Character>();
+            box[r] = new HashSet<Character>();
+        }
+        for(int r=0; r<board.length; r++){
+            for(int c=0; c<board[0].length; c++){
+                char val = board[r][c];
+                 if (val == '.') {
+                    continue;
                 }
-
-                row[i][digit] = true;
-                col[j][digit] = true;
-                box[boxIndex][digit] = true;
+                if(row[r].contains(val)){
+                    return false;
+                }
+                row[r].add(val);
+                 if(col[c].contains(val)){
+                    return false;
+                }
+                col[c].add(val);
+                int idx = (r/3)*3+(c/3);
+                 if(box[idx].contains(val)){
+                    return false;
+                }
+                box[idx].add(val);
+                
             }
         }
-
-        return true; // valid Sudoku
+        return true;
     }
-
-    
 }
