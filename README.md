@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0403-frog-jump) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0518-coin-change-ii) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
