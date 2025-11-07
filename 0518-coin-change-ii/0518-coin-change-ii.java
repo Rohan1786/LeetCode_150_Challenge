@@ -21,13 +21,22 @@ class Solution {
         //     Arrays.fill(arr,-1);
         // }
         // return solve(0, amount, coins);
+    //     int[] dp = new int[amount+1];
+    //     dp[0]=1;
+    //   for(int coin: coins) {
+    //     for(int j=coin; j<=amount; j++){
+    //         dp[j] +=dp[j-coin];
+    //     }
+    //   }
+    //   return dp[amount];
         int[] dp = new int[amount+1];
-        dp[0]=1;
-      for(int coin: coins) {
-        for(int j=coin; j<=amount; j++){
-            dp[j] +=dp[j-coin];
+     
+       dp[0]=1;;
+       for(int coin: coins){
+        for(int i=coin; i<=amount; i++){
+            dp[i]+=dp[i-coin];
         }
-      }
-      return dp[amount];
+       }
+       return dp[amount];
     }
 }
