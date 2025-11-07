@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0900-reordered-power-of-2) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [1006-vowel-spellchecker](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
 | [0867-new-21-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0867-new-21-game) |
