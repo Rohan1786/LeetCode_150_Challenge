@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0826-soup-servings) |
@@ -716,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
