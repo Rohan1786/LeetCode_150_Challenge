@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0474-ones-and-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0498-diagonal-traverse) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0403-frog-jump) |
+| [0474-ones-and-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0567-permutation-in-string) |
 | [1006-vowel-spellchecker](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1264-maximum-number-of-words-you-can-type) |
