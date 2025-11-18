@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
