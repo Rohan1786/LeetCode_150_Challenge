@@ -25,6 +25,6 @@ class Solution {
             }
             res += set1.size();
         }
-        return res;
+        return count;
     }
 }
