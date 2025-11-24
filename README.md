@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0948-sort-an-array) |
 | [1006-vowel-spellchecker](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1039-find-the-town-judge) |
 | [1041-available-captures-for-rook](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1041-available-captures-for-rook) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0389-find-the-difference) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
