@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2429-design-a-food-rating-system](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2479-meeting-rooms-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -974,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1753-path-with-minimum-effort) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2662-check-knight-tour-configuration) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
