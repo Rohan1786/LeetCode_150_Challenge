@@ -21,10 +21,10 @@ var isValid = function (s) {
                 ) {
                     stack.pop();
                 } else {
-                    return false;  // ❗ return false if mismatch
+                    return false;  
                 }
             } else {
-                return false;  // ❗ closing bracket with empty stack
+                return false;   
             }
         }
     }
