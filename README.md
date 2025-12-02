@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3623-count-number-of-trapezoids-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -1062,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0830-largest-triangle-area) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3623-count-number-of-trapezoids-i) |
 ## Merge Sort
 |  |
 | ------- |
