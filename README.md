@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0830-largest-triangle-area) |
+| [0867-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0907-koko-eating-bananas) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -607,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0498-diagonal-traverse) |
+| [0867-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1041-available-captures-for-rook) |
 | [1642-water-bottles](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1642-water-bottles) |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
+| [0867-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1041-available-captures-for-rook) |
