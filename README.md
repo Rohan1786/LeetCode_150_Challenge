@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0118-pascals-triangle) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0120-triangle) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0144-binary-tree-preorder-traversal) |
@@ -696,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1009,6 +1013,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0417-pacific-atlantic-water-flow) |
