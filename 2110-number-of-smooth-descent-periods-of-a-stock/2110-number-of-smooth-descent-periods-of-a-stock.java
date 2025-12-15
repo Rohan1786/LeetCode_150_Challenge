@@ -4,10 +4,10 @@ class Solution {
        int n = prices.length;
       int prev = 1;
       long res =1;
-      for(int i=1; i<n; ++i)
+      for(int i=1; i<n; i++)
       {
         if(prices[i]==prices[i-1]-1){
-            ++prev;
+         prev++;
         }
         else{
             prev=1;
