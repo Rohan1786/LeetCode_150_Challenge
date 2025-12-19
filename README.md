@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0257-binary-tree-paths) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0287-find-the-duplicate-number) |
