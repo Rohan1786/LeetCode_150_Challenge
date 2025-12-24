@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2662-check-knight-tour-configuration) |
 | [2689-rearranging-fruits](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2887-sort-vowels-in-a-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2689-rearranging-fruits) |
+| [3074-apple-redistribution-into-boxes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3074-apple-redistribution-into-boxes) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
