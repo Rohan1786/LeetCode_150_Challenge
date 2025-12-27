@@ -1,31 +1,28 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        if(s1.length()>s2.length()){
-            return false;
-        }
-        int[] field1=new int[26];
-        int[] field2 = new int[26];
+        int[] s1map = new int[26];
+        int[] s2map= new int[26];
+        if(s2.length()<s1.length()) return false;
         for(int i=0; i<s1.length(); i++){
-            field1[s1.charAt(i)-'a']++;
-            field2[s2.charAt(i)-'a']++;
+            s1map[s1.charAt(i)-'a']++;
+            s2map[s2.charAt(i)-'a']++;
+        }
+        if(matches(s1map, s2map)){
+            return true;
         }
         for(int i=0; i<s2.length()-s1.length(); i++){
-           if(matches(field1, field2)){
-            return true;
-           }
-           field2[s2.charAt(i+s1.length())-'a']++;
-           field2[s2.charAt(i)-'a']--;
+            if(matches(s2map, s1map)) return true;
+            s2map[s2.charAt(i+s1.length())-'a']++;
+            s2map[s2.charAt(i)-'a']--;
         }
-        return matches(field1, field2);
+        return matches(s1map, s2map);
     }
-    public boolean matches(int[] field1, int[] field2){
+    public boolean matches(int[]f1, int[] f2){
         for(int i=0; i<26; i++){
-            if(field1[i]!=field2[i]){
+            if(f1[i]!=f2[i]){
                 return false;
             }
-            
         }
         return true;
     }
-
 }
