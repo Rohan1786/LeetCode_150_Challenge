@@ -1,53 +1,42 @@
 class Solution {
-    public String minWindow(String s, String t) {
-              int ns = s.length();
-        int nt = t.length();
-
-        if (ns == 0 || nt == 0 || ns < nt) {
-            return "";
+    public String minWindow(String s, String t){
+      int ns = s.length(), nt = t.length();
+      if(ns<nt|| ns==0||nt ==0) return "";
+      Map<Character, Integer> maps = new HashMap<>();
+      Map<Character, Integer> mapt = new HashMap<>();
+      for(char ch: t.toCharArray()){
+        mapt.put(ch, mapt.getOrDefault(ch, 0)+1);
+      }
+      int required = mapt.size();
+      int left =0;
+      int minLen =Integer.MAX_VALUE;
+      int startIndex =0;
+      int formed =0;
+      for(int right =0; right<ns; right++){
+        char ch = s.charAt(right);
+        maps.put(ch, maps.getOrDefault(ch, 0)+1);
+        if(mapt.containsKey(ch) && maps.get(ch).intValue()==mapt.get(ch).intValue()){
+            formed++;
         }
+         
 
-        HashMap<Character, Integer> need = new HashMap<>();
-        HashMap<Character, Integer> window = new HashMap<>();
- 
-        for (char ch : t.toCharArray()) {
-            need.put(ch, need.getOrDefault(ch, 0) + 1);
-        }
+            while (left <= right && formed == required) {
 
-        int have = 0;  
-        int required = need.size(); 
-
-        int left = 0;
-        int minLen = Integer.MAX_VALUE;
-        int start = 0;
-
-        for (int right = 0; right < ns; right++) {
-
-            char ch = s.charAt(right);
-            window.put(ch, window.getOrDefault(ch, 0) + 1);
-
-            if (need.containsKey(ch) && window.get(ch).intValue() == need.get(ch).intValue()) {
-                have++;
-            }
-
-            // Try shrinking
-            while (have == required) {
                 if (right - left + 1 < minLen) {
                     minLen = right - left + 1;
-                    start = left;
+                    startIndex = left;
                 }
 
-                char drop = s.charAt(left);
-                window.put(drop, window.get(drop) - 1);
+                char use = s.charAt(left);
+                maps.put(use, maps.get(use) - 1);
 
-                if (need.containsKey(drop) && window.get(drop).intValue() < need.get(drop).intValue()) {
-                    have--;
+                if (mapt.containsKey(use) &&
+                    maps.get(use).intValue() < mapt.get(use).intValue()) {
+                    formed--;
                 }
-
                 left++;
             }
-        }
-
-        return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
-    }
+      }
+     return minLen ==Integer.MAX_VALUE?"":s.substring(startIndex, minLen+startIndex);
+     }
 }
