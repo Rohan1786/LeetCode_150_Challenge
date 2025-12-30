@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
+| [0763-partition-labels](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0763-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0908-middle-of-the-linked-list) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0594-longest-harmonious-subsequence) |
+| [0763-partition-labels](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0846-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0940-fruit-into-baskets) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0759-set-intersection-size-at-least-two) |
+| [0763-partition-labels](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0846-hand-of-straights) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1018-largest-perimeter-triangle) |
@@ -634,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0678-valid-parenthesis-string) |
+| [0763-partition-labels](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0763-partition-labels) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0960-delete-columns-to-make-sorted-iii) |
