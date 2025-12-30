@@ -1,6 +1,6 @@
 class Solution {
     public boolean canJump(int[] nums) {
-        int jump=0;
+   
         int n = nums.length;
         int check = n-1;
         for(int i=n-2; i>=0; i--){
