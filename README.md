@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0403-frog-jump) |
 | [0474-ones-and-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0474-ones-and-zeroes) |
 | [0518-coin-change-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0826-soup-servings) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0179-largest-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0678-valid-parenthesis-string) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1018-largest-perimeter-triangle) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0678-valid-parenthesis-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0678-valid-parenthesis-string) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1628-count-submatrices-with-all-ones) |
