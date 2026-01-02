@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2352-equal-row-and-column-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2402-meeting-rooms-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2402-meeting-rooms-iii) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2352-equal-row-and-column-pairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2479-meeting-rooms-iii) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2402-meeting-rooms-iii) |
 | [2479-meeting-rooms-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2479-meeting-rooms-iii) |
 | [2662-check-knight-tour-configuration](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2662-check-knight-tour-configuration) |
@@ -1139,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2352-equal-row-and-column-pairs) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2662-check-knight-tour-configuration) |
