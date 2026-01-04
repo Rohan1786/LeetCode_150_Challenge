@@ -16,7 +16,7 @@ while(!pq.isEmpty()){
     int[] curr = pq.poll();
     int node = curr[0];
     int dist = curr[1];
-    if(dist>distance[node]) continue;
+    if(dist!=distance[node]) continue;
   if(graph.containsKey(node)){
     for(int[] neighbour: graph.get(node)){
         int nextNode = neighbour[0];
