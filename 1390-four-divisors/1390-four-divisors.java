@@ -2,7 +2,7 @@ class Solution {
     public int[] check(int num){
         int sum =0;
         int cnt =0;
-        for(int i=1; i<=Math.sqrt(num); i++){
+        for(int i=1; i*i<=num; i++){
             if(num%i==0){
                 sum+=i;
                 cnt++;
