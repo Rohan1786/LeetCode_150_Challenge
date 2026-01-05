@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -1086,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0994-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1141,6 +1143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [0867-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0867-transpose-matrix) |
 | [0898-transpose-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0898-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
 | [1041-available-captures-for-rook](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1041-available-captures-for-rook) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
