@@ -8,7 +8,7 @@ class Solution {
         Arrays.sort(check, new Comparator<String>(){
             public int compare(String a, String b){
                 String aa = a+b;
-                String bb=b+a;
+                String bb = b+a;
                 return bb.compareTo(aa);
             }
         });
