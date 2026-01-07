@@ -1,30 +1,32 @@
 class Solution {
-     public void make(char[][] grid, int i, int j, int n, int m) {
-        // boundary check
-        if (i < 0 || i >= n || j < 0 || j >= m || grid[i][j] != '1') return;
-
-      
-        grid[i][j] = '0';
- 
-        make(grid, i - 1, j, n, m); // up
-        make(grid, i + 1, j, n, m); // down
-        make(grid, i, j - 1, n, m); // left
-        make(grid, i, j + 1, n, m); // right
+    int n;
+    int m;
+    public void dfs(int i, int j, char[][] grid){
+        int[][] directions = new int[][]{{0,1},{0,-1},{1,0},{-1,0}};
+        grid[i][j]='#';
+        for(int[] dir: directions){
+            int new_i=i+dir[0];
+            int new_j=j+dir[1];
+            if(new_i<0||new_i>=m||new_j>=n||new_j<0){
+                continue;
+            }
+            if(grid[new_i][new_j]=='1'){
+                dfs(new_i, new_j, grid);
+            }
+        }
     }
     public int numIslands(char[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        int count = 0;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == '1') {
-                    make(grid, i, j, n, m);
-                    count++;
+        m = grid.length;
+        n = grid[0].length;
+        int count =0;
+        for(int i=0;i<m; i++){
+            for(int j=0; j<n; j++){
+                if(grid[i][j]=='1'){
+                    dfs(i, j, grid);
+                  count++;
                 }
             }
         }
-
         return count;
     }
 }
