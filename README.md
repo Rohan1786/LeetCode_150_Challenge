@@ -993,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1033,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0572-subtree-of-another-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
