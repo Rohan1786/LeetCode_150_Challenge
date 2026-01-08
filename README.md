@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2054-two-best-non-overlapping-events](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2092-find-all-people-with-secret) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1612-avoid-flood-in-the-city) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1813-maximum-erasure-value](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1813-maximum-erasure-value) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0900-reordered-power-of-2) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -670,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1542-consecutive-characters](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1542-consecutive-characters) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1657-determine-if-two-strings-are-close](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1818-maximum-score-from-removing-substrings) |
