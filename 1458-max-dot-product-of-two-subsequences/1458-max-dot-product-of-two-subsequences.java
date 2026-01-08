@@ -14,14 +14,8 @@
         int take = nums1[i] * nums2[j];
 
         int res = Math.max(
-            Math.max(
-                take + dp(i + 1, j + 1), 
-                take                    
-            ),
-            Math.max(
-                dp(i + 1, j),      
-                dp(i, j + 1)  
-            )
+            Math.max( take + dp(i + 1, j + 1),take ),
+            Math.max( dp(i + 1, j),  dp(i, j + 1)  )
         );
 
         return memo[i][j] = res;
