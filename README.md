@@ -344,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0594-longest-harmonious-subsequence) |
 | [0763-partition-labels](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0846-hand-of-straights) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0900-reordered-power-of-2](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -1018,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0572-subtree-of-another-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -1100,6 +1103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1128,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1036-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
