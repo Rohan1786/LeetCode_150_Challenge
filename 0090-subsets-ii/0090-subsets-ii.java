@@ -1,19 +1,23 @@
 class Solution {
+ 
+    public void backTrack(int start, List<List<Integer>> res, List<Integer> curr, int[] nums, Set<String> set){
+          String key = curr.toString();
+
+        if (!set.contains(key)) {
+            set.add(key);
+            res.add(new ArrayList<>(curr));
+        }
+      for(int i=start; i<nums.length; i++){
+        curr.add(nums[i]);
+        backTrack(i+1, res, curr, nums, set);
+        curr.remove(curr.size()-1);
+      }
+    }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<List<Integer>> res = new ArrayList<>(); 
+        List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(nums);
-        List<Integer> curr = new ArrayList<>();
-        solve(nums, res, curr , 0); 
+        Set<String> set = new HashSet<>();
+        backTrack(0, res, new ArrayList<>(), nums, set);
         return res;
     }
-     public void solve(int[]nums, List<List<Integer>> res,List<Integer> curr ,int start){
-        res.add(new ArrayList<>(curr));
-        for(int i=start; i<nums.length; i++){
-          if(i>start && nums[i]==nums[i-1]) continue;
-          curr.add(nums[i]);
-           solve(nums, res, curr, i+1);
-           curr.remove(curr.size()-1);
-        }
-        
-     }
 }
