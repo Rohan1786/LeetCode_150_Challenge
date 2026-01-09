@@ -1,41 +1,38 @@
 class Solution {
-    StringBuilder res;
+    int m, n;
 
-    public boolean dfs(char[][] board, int i, int j, String word, int idx, boolean[][] visited) {
-        int m = board.length, n = board[0].length;
+    public boolean solve(char[][] board, String word, int i, int j, int index) {
 
-        // Base cases
-        if (idx == word.length()) return true;  // full word matched
-        if (i < 0 || j < 0 || i >= m || j >= n) return false; // out of bounds
-        if (visited[i][j] || board[i][j] != word.charAt(idx)) return false; // already used or mismatch
+        
+        if (index == word.length()) return true;
+ 
+        if (i < 0 || j < 0 || i >= m || j >= n || board[i][j] != word.charAt(index)) {
+            return false;
+        }
+ 
+        char temp = board[i][j];
+        board[i][j] = '#';
 
-        // choose
-        visited[i][j] = true;
-        res.append(board[i][j]);
-
-        // explore
-        boolean found = dfs(board, i - 1, j, word, idx + 1, visited)
-                     || dfs(board, i + 1, j, word, idx + 1, visited)
-                     || dfs(board, i, j - 1, word, idx + 1, visited)
-                     || dfs(board, i, j + 1, word, idx + 1, visited);
-
-        // backtrack
-        visited[i][j] = false;
-        res.deleteCharAt(res.length() - 1);
+       
+        boolean found =
+                solve(board, word, i + 1, j, index + 1) ||
+                solve(board, word, i - 1, j, index + 1) ||
+                solve(board, word, i, j + 1, index + 1) ||
+                solve(board, word, i, j - 1, index + 1);
+ 
+        board[i][j] = temp;
 
         return found;
     }
 
     public boolean exist(char[][] board, String word) {
-        int m = board.length, n = board[0].length;
-        res = new StringBuilder();
-        boolean[][] visited = new boolean[m][n];
+        m = board.length;
+        n = board[0].length;
 
-        // Try to start DFS from every cell
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (board[i][j] == word.charAt(0)) {
-                    if (dfs(board, i, j, word, 0, visited)) {
+                    if (solve(board, word, i, j, 0)) {
                         return true;
                     }
                 }
