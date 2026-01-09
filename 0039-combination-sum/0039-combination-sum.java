@@ -1,24 +1,20 @@
 class Solution {
+    public void backTrack(List<List<Integer>>res, int sum, List<Integer>curr, int[] nums, int target, int start){
+    if(sum==target){
+        res.add(new ArrayList<>(curr));
+        return;
+    } else if(sum>target){
+        return;
+    }
+    for(int i=start; i<nums.length; i++){
+        curr.add(nums[i]);
+        backTrack(res, sum+nums[i], curr, nums, target, i);
+        curr.remove(curr.size()-1);
+    }
+    }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> res = new ArrayList<>();
-       List<Integer> combinations = new ArrayList<>();
-        solve(candidates , target, res, combinations, 0, 0);
+        backTrack(res, 0, new ArrayList<>(), candidates, target, 0);
         return res;
-    }
-
-    public void solve(int[] candidates, int target, List<List<Integer>> res, List<Integer> combo, int sum, int index){
-        if(target==sum){
-            res.add(new ArrayList<>(combo));
-            return;
-        }
-        if(sum>target){
-            return;
-        }
-        
-        for(int i=index; i<candidates.length; i++){
-            combo.add(candidates[i]);
-            solve(candidates, target, res, combo, sum+candidates[i], i);
-            combo.remove(combo.size()-1);
-        }
     }
 }
