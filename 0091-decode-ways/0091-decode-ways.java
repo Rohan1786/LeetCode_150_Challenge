@@ -5,20 +5,23 @@ class Solution {
        if(s.charAt(0)=='0'){
         return 0;
        }
-       int one = 1;
-       int two = 1;
-       for(int i=1; i<n; i++){
-        int current=0;
-        if(s.charAt(i)!='0'){
-           current=one;
+       int[]dp =new int[n+1];
+        
+    //    int one = 1;
+    //    int two = 1;
+    dp[0]=1;
+    dp[1]=1;
+       for(int i=2; i<=n; i++){
+         
+        if(s.charAt(i-1)!='0'){
+            dp[i]+=dp[i-1];
         }
-        int value = Integer.parseInt(s.substring(i-1, i+1));
+        int value = Integer.parseInt(s.substring(i-2, i));
         if(value>=10 && value<=26){
-            current += two;
+            dp[i]+=dp[i-2];
         }
-        two = one;
-        one = current;
+       
        }
-       return one;
+       return dp[n];
     }
 }
