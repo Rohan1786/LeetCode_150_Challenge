@@ -14,24 +14,18 @@
  * }
  */
 class Solution {
-    public int solve(TreeNode root, int maxSoFar){
-        if(root==null){
-            return 0;
-        }
-        int cnt =0;
-        if(root.val>=maxSoFar){
-            cnt =1;
-            maxSoFar=root.val;
-        }
-        cnt+=solve(root.left, maxSoFar);
-        cnt+=solve(root.right, maxSoFar);
-        return cnt;
-    }
-    
     public int goodNodes(TreeNode root) {
-        if(root==null){
-            return 0;
+        return countNodes(root, Integer.MIN_VALUE);
+    }
+    public int countNodes(TreeNode root, int maxSoFar){
+        if(root==null) return 0;
+        int count =0;
+        if(root.val>=maxSoFar){
+            maxSoFar=root.val;
+            count = 1;
         }
-     return solve(root, Integer.MIN_VALUE);
+        count+=countNodes(root.left, maxSoFar);
+        count+=countNodes(root.right, maxSoFar);
+        return count;
     }
 }
