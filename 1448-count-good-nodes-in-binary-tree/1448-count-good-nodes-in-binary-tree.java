@@ -13,7 +13,10 @@
  *     }
  * }
  */
+
+
 class Solution {
+     
     public int goodNodes(TreeNode root) {
         return countNodes(root, Integer.MIN_VALUE);
     }
