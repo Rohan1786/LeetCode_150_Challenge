@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3433-count-mentions-per-user) |
+| [3454-separate-squares-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3454-separate-squares-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -1166,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3454-separate-squares-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -1328,4 +1331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0239-sliding-window-maximum) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
