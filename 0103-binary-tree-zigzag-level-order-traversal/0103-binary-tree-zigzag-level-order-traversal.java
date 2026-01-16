@@ -14,40 +14,35 @@
  * }
  */
 class Solution {
-    public void nthLevel(TreeNode root,int n,  List<Integer> arr){
-        if(root==null) return;
-    if(n==1){
-        arr.add(root.val);
-        return;
-    }
-    nthLevel(root.left,n-1,arr);
-    nthLevel(root.right,n-1,arr);
-    }
-  public void nthLevel2(TreeNode root,int n,  List<Integer> arr){
-    if(root==null) return;
-    if(n==1){
-        arr.add(root.val);
-        return;
-    }
-    nthLevel2(root.right,n-1,arr);
-    nthLevel2(root.left,n-1,arr);
-   
-  }
-    public int height(TreeNode root){
-        if(root==null||(root.left==null && root.right==null)) return 0;
-        return 1 + Math.max(height(root.left),height(root.right));
-    }
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+        List<List<Integer>> res = new ArrayList<>();
+        if(root==null) return res;
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+        boolean check = false;
+        while(!queue.isEmpty()){
+            Stack<Integer> stack = new Stack<>();
+            List<Integer> level = new ArrayList<>();
+            int size = queue.size();
+            for(int i=0; i<size; i++){
+                TreeNode node = queue.poll();
+                if(check){
+                    stack.push(node.val);
+                }
+                else{
+                    level.add(node.val);
+                }
+                if(node.left!=null) queue.offer(node.left);
+                if(node.right!=null) queue.offer(node.right);
+
+            }
+            check = !check;
+            while(!stack.isEmpty()){
+                level.add(stack.pop());
+            }
+            res.add(new ArrayList<>(level));
+        }
+        return res;
         
-        if(root==null) return new ArrayList<>();
-        List<List<Integer>> ans = new ArrayList<>();
-        int level=height(root)+1;
-     for(int i=1;i<=level;i++){
-        List<Integer> arr = new ArrayList<>();
-        if(i%2!=0) nthLevel(root,i,arr);
-        else nthLevel2(root,i,arr);
-        ans.add(arr);
-     }
-     return ans;
     }
 }
