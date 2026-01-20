@@ -1344,4 +1344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
