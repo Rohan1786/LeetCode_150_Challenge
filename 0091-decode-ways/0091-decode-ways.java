@@ -1,27 +1,28 @@
 class Solution {
- 
-    public int numDecodings(String s) {
-       int n = s.length();
-       if(s.charAt(0)=='0'){
-        return 0;
-       }
-       int[]dp =new int[n+1];
+    int[] memo;
+    public int decodeWays(String digits, int index){
+        int n = digits.length();
+        if(index>=n)
+        {
+            return 1;
+        }
+        if(memo[index]!=-1) {
+            return memo[index];
+        }
+        int ways=0;
         
-    //    int one = 1;
-    //    int two = 1;
-    dp[0]=1;
-    dp[1]=1;
-       for(int i=2; i<=n; i++){
-         
-        if(s.charAt(i-1)!='0'){
-            dp[i]+=dp[i-1];
+            if(digits.charAt(index)!='0'){
+               ways=decodeWays(digits, index+1);
+            
         }
-        int value = Integer.parseInt(s.substring(i-2, i));
-        if(value>=10 && value<=26){
-            dp[i]+=dp[i-2];
-        }
-       
-       }
-       return dp[n];
+    if((index+1<n) && ((digits.charAt(index)=='1' && digits.charAt(index+1)<='9')|| (digits.charAt(index)=='2' && digits.charAt(index+1)<='6'))){
+        ways+=decodeWays(digits, index+2);
+     }
+     return memo[index]=ways;
+    }
+    public int numDecodings(String s) {
+        memo = new int[s.length()];
+        Arrays.fill(memo, -1);
+        return decodeWays(s, 0);
     }
 }
