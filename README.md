@@ -456,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0679-24-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0679-24-game) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0826-soup-servings](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0867-new-21-game) |
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0389-find-the-difference) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
