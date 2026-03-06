@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2079-delete-duplicate-folders-in-system) |
