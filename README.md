@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0695-max-area-of-island) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0658-find-k-closest-elements) |
 | [0759-set-intersection-size-at-least-two](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0759-set-intersection-size-at-least-two) |
 | [0846-hand-of-straights](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0846-hand-of-straights) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0594-longest-harmonious-subsequence) |
+| [0645-set-mismatch](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -988,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/1018-binary-prefix-divisible-by-5) |
