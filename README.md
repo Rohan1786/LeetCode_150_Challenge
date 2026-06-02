@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3623-count-number-of-trapezoids-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2540-minimum-common-value](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/2540-minimum-common-value) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3606-coupon-code-validator) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -903,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Rohan1786/LeetCode_150_Challenge/tree/master/3791-fruits-into-baskets-iii) |
